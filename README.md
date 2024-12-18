@@ -118,11 +118,18 @@ methodology, findings, and recommendations.
 
 ## Results and Findings
 
-The results and findings of my analysis are presented in the the links [(https://colab.research.google.com/drive/1SSEC-DNlfgBBKzLDMyPtsEDgBm_5Pvjq?usp=sharing)]((https://colab.research.google.com/drive/11tK-SCHaAeFX9RqXqkk-yFXgNw58rhTU?usp=sharing)) ((https://colab.research.google.com/drive/1j3MgRQorHynEfa1PFP9fAIxmG8o5HOiM?usp=sharing))[(https://drive.google.com/file/d/1JJNTc0Qfrv-v5F8RtEy7pG8v0GHaB1D1/view?usp=sharing)]((https://drive.google.com/file/d/1sboe0A_FVTH1HS2KUWrfjziBwEYTr_Jz/view?usp=sharing)).
+The results and findings of my analysis are presented in the the links 
+[(https://colab.research.google.com/drive/1SSEC-DNlfgBBKzLDMyPtsEDgBm_5Pvjq?usp=sharing)]
+[(https://colab.research.google.com/drive/11tK-SCHaAeFX9RqXqkk-yFXgNw58rhTU?usp=sharing)] 
+[(https://colab.research.google.com/drive/1j3MgRQorHynEfa1PFP9fAIxmG8o5HOiM?usp=sharing)]
+[(https://drive.google.com/file/d/1JJNTc0Qfrv-v5F8RtEy7pG8v0GHaB1D1/view?usp=sharing)]
+[(https://drive.google.com/file/d/1sboe0A_FVTH1HS2KUWrfjziBwEYTr_Jz/view?usp=sharing)].
 
 ## Insights and Recommendations
 
-Insights and recommendations based on my analysis are presented in the [(https://drive.google.com/file/d/1owKQZ1WC0Hrs6ol9lv17LXE9jtqII9eB/view?usp=sharing)]((https://drive.google.com/file/d/1owKQZ1WC0Hrs6ol9lv17LXE9jtqII9eB/view?usp=sharing)) file.
+Insights and recommendations based on my analysis are presented in the 
+[(https://drive.google.com/file/d/1owKQZ1WC0Hrs6ol9lv17LXE9jtqII9eB/view?usp=sharing)]
+[(https://drive.google.com/file/d/1owKQZ1WC0Hrs6ol9lv17LXE9jtqII9eB/view?usp=sharing)] file.
 
 ## Getting Started
 

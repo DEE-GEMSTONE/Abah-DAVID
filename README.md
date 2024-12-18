@@ -13,7 +13,6 @@ This repository contains a pharmaceutical dataset provided by 3Signet LTD. The d
 * [Results and Findings](#results-and-findings)
 * [Insights and Recommendations](#insights-and-recommendations)
 * [Getting Started](#getting-started)
-* [License](#license)
 * [Acknowledgments](#acknowledgments)
 
 ## Introduction(Problem Statement)

@@ -43,7 +43,7 @@ The dataset includes the following columns:
 
 ## Data Dictionary
 
-A data dictionary is provided in the [(Dataset)]((https://drive.google.com/file/d/1Mh6NjWYK898-UT1UhEp7gYH5d6jgN0UV/view?usp=drive_link)) file, which describes the variables in the dataset, including their data types and descriptions.
+A data dictionary is provided in the [(https://drive.google.com/file/d/1Mh6NjWYK898-UT1UhEp7gYH5d6jgN0UV/view?usp=drive_link)]((https://drive.google.com/file/d/1Mh6NjWYK898-UT1UhEp7gYH5d6jgN0UV/view?usp=drive_link)) file, which describes the variables in the dataset, including their data types and descriptions.
 
 ## Analysis Breakdown
 
